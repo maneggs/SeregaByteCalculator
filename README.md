@@ -3,7 +3,7 @@
 <p align="center">Революция в мире программирования. SeregaByteConverter.</p>
 
 <div align=center>
-  <img src="Assets/icon.png" width="2px"/>
+  <img src="Assets/icon.png" width="128px"/>
 </div>
 
 # &#128153; Возможности #
