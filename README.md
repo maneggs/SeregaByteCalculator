@@ -1,1 +1,15 @@
-# SeregaByteCalculator
+<h1 align="center">SeregaByteConverter</h1>
+
+<p align="center">Революция в мире программирования. SeregaByteConverter.</p>
+
+<div align=center>
+  <img src="Assets/icon.png" width="1024px"/>
+</div>
+
+# &#128153; Возможности #
+&#9679; Калькулятор байтов<br />
+&#9679; Расчет реального объема флешки<br />
+&#9679; Расчет скорости Интернететета<br />
+&#9679; Расчет байтов в UTF-8<br />
+&#9679; Расчет времени скачивания<br />
+&#9679; Расчет объема этилового спирта в напитке<br />
