@@ -1,0 +1,16 @@
+C:\Users\1412\source\repos\SeregaByteCalculator\SeregaByteCalculator\bin\Release\net8.0\SeregaByteCalculator.exe
+C:\Users\1412\source\repos\SeregaByteCalculator\SeregaByteCalculator\bin\Release\net8.0\SeregaByteCalculator.deps.json
+C:\Users\1412\source\repos\SeregaByteCalculator\SeregaByteCalculator\bin\Release\net8.0\SeregaByteCalculator.runtimeconfig.json
+C:\Users\1412\source\repos\SeregaByteCalculator\SeregaByteCalculator\bin\Release\net8.0\SeregaByteCalculator.dll
+C:\Users\1412\source\repos\SeregaByteCalculator\SeregaByteCalculator\bin\Release\net8.0\SeregaByteCalculator.pdb
+C:\Users\1412\source\repos\SeregaByteCalculator\SeregaByteCalculator\obj\Release\net8.0\SeregaByteCalculator.Properties.Resources.resources
+C:\Users\1412\source\repos\SeregaByteCalculator\SeregaByteCalculator\obj\Release\net8.0\SeregaByteCalculator.csproj.GenerateResource.cache
+C:\Users\1412\source\repos\SeregaByteCalculator\SeregaByteCalculator\obj\Release\net8.0\SeregaByteCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1412\source\repos\SeregaByteCalculator\SeregaByteCalculator\obj\Release\net8.0\SeregaByteCalculator.AssemblyInfoInputs.cache
+C:\Users\1412\source\repos\SeregaByteCalculator\SeregaByteCalculator\obj\Release\net8.0\SeregaByteCalculator.AssemblyInfo.cs
+C:\Users\1412\source\repos\SeregaByteCalculator\SeregaByteCalculator\obj\Release\net8.0\SeregaByteCalculator.csproj.CoreCompileInputs.cache
+C:\Users\1412\source\repos\SeregaByteCalculator\SeregaByteCalculator\obj\Release\net8.0\SeregaByteCalculator.dll
+C:\Users\1412\source\repos\SeregaByteCalculator\SeregaByteCalculator\obj\Release\net8.0\refint\SeregaByteCalculator.dll
+C:\Users\1412\source\repos\SeregaByteCalculator\SeregaByteCalculator\obj\Release\net8.0\SeregaByteCalculator.pdb
+C:\Users\1412\source\repos\SeregaByteCalculator\SeregaByteCalculator\obj\Release\net8.0\SeregaByteCalculator.genruntimeconfig.cache
+C:\Users\1412\source\repos\SeregaByteCalculator\SeregaByteCalculator\obj\Release\net8.0\ref\SeregaByteCalculator.dll
