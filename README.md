@@ -1,6 +1,6 @@
-<h1 align="center">SeregaByteConverter</h1>
+<h1 align="center">SeregaByteCalculator</h1>
 
-<p align="center">Революция в мире программирования. SeregaByteConverter.</p>
+<p align="center">Революция в мире программирования. SeregaByteCalculator.</p>
 
 <div align=center>
   <img src="Assets/icon.png" width="512px"/>
